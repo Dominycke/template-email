@@ -1,11 +1,10 @@
+## Email template
 Este es un proyecto de una plantilla de correo electronico que es enviado y compatuble con el Cliente de Outlook 2016 sin perder el diseño original de este, tambien es compatible con demas clientes
-
-Esra es una una visualizacion de la imagen
+Esa es una una visualizacion de la imagen
 
 
 
 This is a draft email template that is sent and compatible with Outlook 2016 without losing its original design. It is also compatible with other clients.
-
 This is a preview of the image.
 
 
