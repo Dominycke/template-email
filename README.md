@@ -1,3 +1,22 @@
+Este es un proyecto de una plantilla de correo electronico que es enviado y compatuble con el Cliente de Outlook 2016 sin perder el diseño original de este, tambien es compatible con demas clientes
+
+Esra es una una visualizacion de la imagen
+
+
+
+This is a draft email template that is sent and compatible with Outlook 2016 without losing its original design. It is also compatible with other clients.
+
+This is a preview of the image.
+
+
+
+<img width="651" height="679" alt="image" src="https://github.com/user-attachments/assets/e2117cb2-d7b4-4027-bac3-7d695ad57cec" />
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
